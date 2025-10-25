@@ -6,25 +6,25 @@ int main()
 	scanf("%d",&choice);
 	switch(choice)
 	{
-		case1:
+		case 1:
 			printf ("sunday");
 			break;
-		case2:
+		case 2:
 			printf("monday");
 			break;
-		case3:
+		case 3:
 			printf("tuesday");
 			break;
-		case4:
+		case 4:
 			printf("wednestday");
 			break;
-		case5:
+		case 5:
 			printf("thuresday");
 			break;
-		cace6:
+		case 6:
 			printf("friday");
 			break;
-		case7:
+		case 7:
 			printf("saturday");
 			break;
 			defoult:
